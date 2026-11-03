@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>晚安，温知怀</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="stage">
+  <div id="frame-wrap">
+    <div id="far"></div>
+    <div id="near" class="animating"></div>
+
+    <div id="progress"></div>
+
+    <div id="toolbar">
+      <button id="btn-sound" type="button">声音 开</button>
+      <button id="btn-music" type="button">音乐</button>
+      <button id="btn-collect" type="button">物品</button>
+      <button id="btn-analysis" title="剧情解析">解析</button>
+        <button id="btn-memories" type="button">回忆</button>
+      <button id="btn-prev" type="button">上一段</button>
+      <button id="btn-chapters" type="button">章节</button>
+      <button id="btn-reset" type="button">重置</button>
+    </div>
+
+    <div id="lines">
+      <div id="line-box"></div>
+      <div id="hint">点击继续</div>
+    </div>
+
+    <div id="chapter-card">
+      <div class="num"></div>
+      <div class="name"></div>
+      <div class="sub"></div>
+    </div>
+
+    <div id="chapters">
+      <h2>章节</h2>
+      <div id="chapter-list"></div>
+    </div>
+
+    <div id="title">
+      <div class="inner">
+        <h1>晚安，温知怀</h1>
+        <div class="sub">一场雨爱</div>
+        <button id="start-btn" type="button">进入房间</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="finale">
+  <div class="fin-card">
+    <img class="fin-img" alt="">
+    <div class="k">达成结局</div>
+    <div class="v">记得和她说晚安</div>
+  </div>
+  <div class="fin-ask">
+    <p>你来自什么时候？</p>
+    <div class="row">
+      <input id="year-input" type="text" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="四位年份">
+      <button id="year-ok" type="button">确认</button>
+    </div>
+  </div>
+  <div class="fin-last">
+    <div class="fin-line"></div>
+    <div class="fin-hint">点击回到标题</div>
+  </div>
+</div>
+
+<div id="gain"></div>
+<div id="memory-view"></div>
+
+<script src="data/story.js"></script>
+<script src="data/extras.js"></script>
+<script src="data/music.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/sfx.js"></script>
+<script src="js/collect.js"></script>
+<script src="js/music.js"></script>
+<script src="data/analysis.js"></script>
+  <script src="js/analysis.js"></script>
+  <script src="js/flashback.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+﻿# 缓存：图和音频可以长缓存，html 每次校验
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer-when-downgrade
+
+/images/*
+  Cache-Control: public, max-age=2592000, immutable
+
+/audio/*
+  Cache-Control: public, max-age=2592000
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
