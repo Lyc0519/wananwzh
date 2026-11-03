@@ -406,11 +406,16 @@
    "stage": [
     "应用P5 但桌上多了面和筷子。"
    ],
+   "lines": []
+  },
+  {
+   "id": 7,
+   "frame": 6,
+   "chapter": 1,
+   "chapterIndex": "第一章",
+   "chapterName": "缘相赴，幸相逢",
+   "stage": [],
    "lines": [
-    {
-     "t": "缘相赴，幸相逢",
-     "m": ""
-    },
     {
      "t": "“这句。”他指着手机，“缘相赴，幸相逢。”",
      "m": ""
@@ -422,11 +427,11 @@
    ]
   },
   {
-   "id": 7,
+   "id": 8,
    "frame": 7,
-   "chapter": 0,
-   "chapterIndex": "序",
-   "chapterName": "傍晚，第一位客人",
+   "chapter": 1,
+   "chapterIndex": "第一章",
+   "chapterName": "缘相赴，幸相逢",
    "stage": [
     "切换到我的视角，他坐在我对面，面前是煮好的青菜鸡蛋面和筷子，他拿着手机，看向我。"
    ],
@@ -494,7 +499,7 @@
    ]
   },
   {
-   "id": 8,
+   "id": 9,
    "frame": 8,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -510,7 +515,7 @@
    ]
   },
   {
-   "id": 9,
+   "id": 10,
    "frame": 9,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -530,7 +535,7 @@
    ]
   },
   {
-   "id": 10,
+   "id": 11,
    "frame": 10,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -554,7 +559,7 @@
    ]
   },
   {
-   "id": 11,
+   "id": 12,
    "frame": 7,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -617,7 +622,7 @@
    ]
   },
   {
-   "id": 12,
+   "id": 13,
    "frame": 11,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -649,7 +654,7 @@
    ]
   },
   {
-   "id": 13,
+   "id": 14,
    "frame": 12,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -685,7 +690,7 @@
    ]
   },
   {
-   "id": 14,
+   "id": 15,
    "frame": 7,
    "chapter": 1,
    "chapterIndex": "第一章",
@@ -719,11 +724,17 @@
     {
      "t": "随后低下头嗦了两口面。",
      "m": ""
-    },
-    {
-     "t": "循此苦旅，以抵天明",
-     "m": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "frame": 7,
+   "chapter": 2,
+   "chapterIndex": "第二章",
+   "chapterName": "循此苦旅，以抵天明",
+   "stage": [],
+   "lines": [
     {
      "t": "“这相遇的戏码还挺青春。那你们吵过架吗。”",
      "m": ""
@@ -759,11 +770,11 @@
    ]
   },
   {
-   "id": 15,
+   "id": 17,
    "frame": 12,
-   "chapter": 1,
-   "chapterIndex": "第一章",
-   "chapterName": "缘相赴，幸相逢",
+   "chapter": 2,
+   "chapterIndex": "第二章",
+   "chapterName": "循此苦旅，以抵天明",
    "stage": [],
    "lines": [
     {
@@ -821,11 +832,11 @@
    ]
   },
   {
-   "id": 16,
+   "id": 18,
    "frame": 7,
-   "chapter": 1,
-   "chapterIndex": "第一章",
-   "chapterName": "缘相赴，幸相逢",
+   "chapter": 2,
+   "chapterIndex": "第二章",
+   "chapterName": "循此苦旅，以抵天明",
    "stage": [],
    "lines": [
     {
@@ -883,7 +894,7 @@
    ]
   },
   {
-   "id": 17,
+   "id": 19,
    "frame": 13,
    "chapter": 2,
    "chapterIndex": "第二章",
@@ -896,11 +907,17 @@
      "t": "山姆的小青柠汁，她曾经爱喝这个。给。",
      "m": "",
      "give": "lime"
-    },
-    {
-     "t": "尘躯同缱绻，魂梦两相依",
-     "m": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "frame": 13,
+   "chapter": 3,
+   "chapterIndex": "第三章",
+   "chapterName": "尘躯同缱绻，魂梦两相依",
+   "stage": [],
+   "lines": [
     {
      "t": "“那...最好的时候，是什么样。”",
      "m": ""
@@ -940,7 +957,7 @@
    ]
   },
   {
-   "id": 18,
+   "id": 21,
    "frame": 14,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -956,7 +973,7 @@
    ]
   },
   {
-   "id": 19,
+   "id": 22,
    "frame": 15,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -984,7 +1001,7 @@
    ]
   },
   {
-   "id": 20,
+   "id": 23,
    "frame": 12,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1018,7 +1035,7 @@
    ]
   },
   {
-   "id": 21,
+   "id": 24,
    "frame": 13,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1060,7 +1077,7 @@
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "frame": 16,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1076,7 +1093,7 @@
    ]
   },
   {
-   "id": 23,
+   "id": 26,
    "frame": 13,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1102,7 +1119,7 @@
    ]
   },
   {
-   "id": 24,
+   "id": 27,
    "frame": 17,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1146,7 +1163,7 @@
    ]
   },
   {
-   "id": 25,
+   "id": 28,
    "frame": 18,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1170,7 +1187,7 @@
    ]
   },
   {
-   "id": 26,
+   "id": 29,
    "frame": 13,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1192,7 +1209,7 @@
    ]
   },
   {
-   "id": 27,
+   "id": 30,
    "frame": 19,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1220,7 +1237,7 @@
    ]
   },
   {
-   "id": 28,
+   "id": 31,
    "frame": 20,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1244,7 +1261,7 @@
    ]
   },
   {
-   "id": 29,
+   "id": 32,
    "frame": 13,
    "chapter": 3,
    "chapterIndex": "第三章",
@@ -1278,11 +1295,17 @@
     {
      "t": "“等下你先别起调调，你先跟我解释一下这分手是什么意思，怎么这么突然？”",
      "m": ""
-    },
-    {
-     "t": "一日冰河死寂，他朝春水决堤",
-     "m": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "frame": 13,
+   "chapter": 4,
+   "chapterIndex": "第四章",
+   "chapterName": "一日冰河死寂，他朝春水决堤",
+   "stage": [],
+   "lines": [
     {
      "t": "“为什么。”",
      "m": ""
@@ -1342,11 +1365,11 @@
    ]
   },
   {
-   "id": 30,
+   "id": 34,
    "frame": 12,
-   "chapter": 3,
-   "chapterIndex": "第三章",
-   "chapterName": "尘躯同缱绻，魂梦两相依",
+   "chapter": 4,
+   "chapterIndex": "第四章",
+   "chapterName": "一日冰河死寂，他朝春水决堤",
    "stage": [],
    "lines": [
     {
@@ -1404,11 +1427,11 @@
    ]
   },
   {
-   "id": 31,
+   "id": 35,
    "frame": 13,
-   "chapter": 3,
-   "chapterIndex": "第三章",
-   "chapterName": "尘躯同缱绻，魂梦两相依",
+   "chapter": 4,
+   "chapterIndex": "第四章",
+   "chapterName": "一日冰河死寂，他朝春水决堤",
    "stage": [],
    "lines": [
     {
@@ -1430,7 +1453,7 @@
    ]
   },
   {
-   "id": 32,
+   "id": 36,
    "frame": 21,
    "chapter": 4,
    "chapterIndex": "第四章",
@@ -1450,7 +1473,7 @@
    ]
   },
   {
-   "id": 33,
+   "id": 37,
    "frame": 13,
    "chapter": 4,
    "chapterIndex": "第四章",
@@ -1540,15 +1563,11 @@
     {
      "t": "”？？？不是，我是说后悔没早点跑或者后悔跟她谈了，甚至说后悔遇——”他叹了口气，“欸，她到底给你下了什么药？“",
      "m": ""
-    },
-    {
-     "t": "且将眶底清泪拭，不知欢颜早先临",
-     "m": ""
     }
    ]
   },
   {
-   "id": 34,
+   "id": 38,
    "frame": 12,
    "chapter": 4,
    "chapterIndex": "第四章",
@@ -1566,7 +1585,7 @@
    ]
   },
   {
-   "id": 35,
+   "id": 39,
    "frame": 13,
    "chapter": 4,
    "chapterIndex": "第四章",
@@ -1612,7 +1631,7 @@
    ]
   },
   {
-   "id": 36,
+   "id": 40,
    "frame": 22,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1648,7 +1667,7 @@
    ]
   },
   {
-   "id": 37,
+   "id": 41,
    "frame": 12,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1666,7 +1685,7 @@
    ]
   },
   {
-   "id": 38,
+   "id": 42,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1680,7 +1699,7 @@
    ]
   },
   {
-   "id": 39,
+   "id": 43,
    "frame": 23,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1708,7 +1727,7 @@
    ]
   },
   {
-   "id": 40,
+   "id": 44,
    "frame": 24,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1727,7 +1746,7 @@
    ]
   },
   {
-   "id": 41,
+   "id": 45,
    "frame": 12,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1761,7 +1780,7 @@
    ]
   },
   {
-   "id": 42,
+   "id": 46,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1783,7 +1802,7 @@
    ]
   },
   {
-   "id": 43,
+   "id": 47,
    "frame": 25,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1803,7 +1822,7 @@
    ]
   },
   {
-   "id": 44,
+   "id": 48,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1833,7 +1852,7 @@
    ]
   },
   {
-   "id": 45,
+   "id": 49,
    "frame": 26,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1853,7 +1872,7 @@
    ]
   },
   {
-   "id": 46,
+   "id": 50,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1911,7 +1930,7 @@
    ]
   },
   {
-   "id": 47,
+   "id": 51,
    "frame": 27,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1943,7 +1962,7 @@
    ]
   },
   {
-   "id": 48,
+   "id": 52,
    "frame": 28,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1967,7 +1986,7 @@
    ]
   },
   {
-   "id": 49,
+   "id": 53,
    "frame": 29,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -1987,7 +2006,7 @@
    ]
   },
   {
-   "id": 50,
+   "id": 54,
    "frame": 30,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2015,7 +2034,7 @@
    ]
   },
   {
-   "id": 51,
+   "id": 55,
    "frame": 31,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2047,7 +2066,7 @@
    ]
   },
   {
-   "id": 52,
+   "id": 56,
    "frame": 32,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2064,7 +2083,7 @@
    ]
   },
   {
-   "id": 53,
+   "id": 57,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2106,7 +2125,7 @@
    ]
   },
   {
-   "id": 54,
+   "id": 58,
    "frame": 33,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2130,7 +2149,7 @@
    ]
   },
   {
-   "id": 55,
+   "id": 59,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2160,7 +2179,7 @@
    ]
   },
   {
-   "id": 56,
+   "id": 60,
    "frame": 34,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2177,7 +2196,7 @@
    ]
   },
   {
-   "id": 57,
+   "id": 61,
    "frame": 35,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2194,7 +2213,7 @@
    ]
   },
   {
-   "id": 58,
+   "id": 62,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2284,7 +2303,7 @@
    ]
   },
   {
-   "id": 59,
+   "id": 63,
    "frame": 36,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2312,7 +2331,7 @@
    ]
   },
   {
-   "id": 60,
+   "id": 64,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2330,7 +2349,7 @@
    ]
   },
   {
-   "id": 61,
+   "id": 65,
    "frame": 37,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2358,7 +2377,7 @@
    ]
   },
   {
-   "id": 62,
+   "id": 66,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2380,7 +2399,7 @@
    ]
   },
   {
-   "id": 63,
+   "id": 67,
    "frame": 38,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2400,7 +2419,7 @@
    ]
   },
   {
-   "id": 64,
+   "id": 68,
    "frame": 39,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2420,7 +2439,7 @@
    ]
   },
   {
-   "id": 65,
+   "id": 69,
    "frame": 13,
    "chapter": 5,
    "chapterIndex": "第五章",
@@ -2430,11 +2449,17 @@
     {
      "t": "“先停一下，你是还爱着她吗？还是只是发现彻底失去了于是后悔莫及？对那些遗憾的执着不甘和真心还爱你分得清楚吗？”",
      "m": ""
-    },
-    {
-     "t": "有心执手偕老，无意不复往来",
-     "m": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "frame": 13,
+   "chapter": 6,
+   "chapterIndex": "第六章",
+   "chapterName": "有心执手偕老，无意不复往来",
+   "stage": [],
+   "lines": [
     {
      "t": "我当时没想那么多，下意识的，只是发疯似的想找回她。我开始写小作文尝试挽回一切。",
      "m": ""
@@ -2450,7 +2475,7 @@
    ]
   },
   {
-   "id": 66,
+   "id": 71,
    "frame": 40,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2486,7 +2511,7 @@
    ]
   },
   {
-   "id": 67,
+   "id": 72,
    "frame": 12,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2532,7 +2557,7 @@
    ]
   },
   {
-   "id": 68,
+   "id": 73,
    "frame": 13,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2570,7 +2595,7 @@
    ]
   },
   {
-   "id": 69,
+   "id": 74,
    "frame": 40,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2584,7 +2609,7 @@
    ]
   },
   {
-   "id": 70,
+   "id": 75,
    "frame": 13,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2634,7 +2659,7 @@
    ]
   },
   {
-   "id": 71,
+   "id": 76,
    "frame": 12,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2656,7 +2681,7 @@
    ]
   },
   {
-   "id": 72,
+   "id": 77,
    "frame": 13,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2710,7 +2735,7 @@
    ]
   },
   {
-   "id": 73,
+   "id": 78,
    "frame": 41,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2734,7 +2759,7 @@
    ]
   },
   {
-   "id": 74,
+   "id": 79,
    "frame": 13,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2764,7 +2789,7 @@
    ]
   },
   {
-   "id": 75,
+   "id": 80,
    "frame": 12,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2786,7 +2811,7 @@
    ]
   },
   {
-   "id": 76,
+   "id": 81,
    "frame": 13,
    "chapter": 6,
    "chapterIndex": "第六章",
@@ -2808,15 +2833,11 @@
     {
      "t": "分不清。",
      "m": ""
-    },
-    {
-     "t": "执念留今朝，遗憾归故我",
-     "m": ""
     }
    ]
   },
   {
-   "id": 77,
+   "id": 82,
    "frame": 42,
    "chapter": 7,
    "chapterIndex": "第七章",
@@ -2832,7 +2853,7 @@
    ]
   },
   {
-   "id": 78,
+   "id": 83,
    "frame": 13,
    "chapter": 7,
    "chapterIndex": "第七章",
@@ -2862,7 +2883,7 @@
    ]
   },
   {
-   "id": 79,
+   "id": 84,
    "frame": 43,
    "chapter": 8,
    "chapterIndex": "第八章",
@@ -2878,7 +2899,7 @@
    ]
   },
   {
-   "id": 80,
+   "id": 85,
    "frame": 13,
    "chapter": 8,
    "chapterIndex": "第八章",
@@ -2888,11 +2909,17 @@
     {
      "t": "“你不觉得这话说得很不负责任吗？明明还是在骗自己，仍有执念却没有遗憾，这不是矛盾吗？处于现在的你该如何处理那些过去呢？”",
      "m": ""
-    },
-    {
-     "t": "莫问旧事，自有留去",
-     "m": ""
-    },
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "frame": 13,
+   "chapter": 8,
+   "chapterIndex": "第八章",
+   "chapterName": "莫问旧事，自有留去",
+   "stage": [],
+   "lines": [
     {
      "t": "那些回忆，和我们互相留下的痕迹，我想我不会忘记，不会有勇气抹去，也没必要这么做，我刚才应该和你解释过了，有些事不是你想忘就忘。",
      "m": ""
@@ -2908,7 +2935,7 @@
    ]
   },
   {
-   "id": 81,
+   "id": 87,
    "frame": 44,
    "chapter": 8,
    "chapterIndex": "第八章",
@@ -2928,15 +2955,11 @@
     {
      "t": "“……我好像快要长脑子了。”",
      "m": ""
-    },
-    {
-     "t": "逢皆遇，散由缘",
-     "m": ""
     }
    ]
   },
   {
-   "id": 82,
+   "id": 88,
    "frame": 13,
    "chapter": 8,
    "chapterIndex": "第八章",
@@ -2966,7 +2989,7 @@
    ]
   },
   {
-   "id": 83,
+   "id": 89,
    "frame": 45,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3002,7 +3025,7 @@
    ]
   },
   {
-   "id": 84,
+   "id": 90,
    "frame": 46,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3046,7 +3069,7 @@
    ]
   },
   {
-   "id": 85,
+   "id": 91,
    "frame": 47,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3078,7 +3101,7 @@
    ]
   },
   {
-   "id": 86,
+   "id": 92,
    "frame": 48,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3102,7 +3125,7 @@
    ]
   },
   {
-   "id": 87,
+   "id": 93,
    "frame": 49,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3134,7 +3157,7 @@
    ]
   },
   {
-   "id": 88,
+   "id": 94,
    "frame": 50,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3162,7 +3185,7 @@
    ]
   },
   {
-   "id": 89,
+   "id": 95,
    "frame": 51,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3190,7 +3213,7 @@
    ]
   },
   {
-   "id": 90,
+   "id": 96,
    "frame": 52,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3210,7 +3233,7 @@
    ]
   },
   {
-   "id": 91,
+   "id": 97,
    "frame": 53,
    "chapter": 9,
    "chapterIndex": "第九章",
@@ -3234,7 +3257,7 @@
    ]
   },
   {
-   "id": 92,
+   "id": 98,
    "frame": 54,
    "chapter": 9,
    "chapterIndex": "第九章",
