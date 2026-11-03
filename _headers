@@ -1,4 +1,3 @@
-﻿# 缓存：图和音频可以长缓存，html 每次校验
 /*
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer-when-downgrade
